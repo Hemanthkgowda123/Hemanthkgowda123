@@ -16,7 +16,7 @@
 ### 🧑‍💻 About Me  
 - 🚀 Front-End Developer specialized in creating **interactive web apps**
 - 💻 Passionate Data Analyst skilled in transforming data into actionable insights through analysis, visualization, and storytelling**
-- 💡 Skilled in **Core Java, JDEE, Reactjs, HTML, CSS, JavaScript, SQL, AI Data Annotation**
+- 💡 Skilled in **Core Java, J2EE, JDBC, REST Apis, Reactjs, HTML, CSS, JavaScript, SQL, AI Data Annotation**
 - ⚙️ Tools: **VS Code, Git, GitHub, Eclipse, SQL Lite**
 - 🎯 Focused on **Performance, Clean Design & User Experience**
 - 📫 Connect on [**LinkedIn**](https://www.linkedin.com/in/hemanth-k-gowda-4a432436b/)
