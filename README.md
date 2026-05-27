@@ -114,7 +114,7 @@
 
 ### 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Benakarajgowdasu&style=for-the-badge&color=6EE7B7" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Hemanthkgowda&style=for-the-badge&color=6EE7B7" alt="Profile Views"/>
 </p>
 
 ---
