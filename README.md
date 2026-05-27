@@ -2,7 +2,7 @@
 
 <!-- Header Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,100:6ee7b7&height=220&section=header&text=👋%20Hemanth%20K%20S%Gowda&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,100:6ee7b7&height=220&section=header&text=👋%20Hemanth%20K%20%Gowda&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <h3 align="center">💻 Front-End Developer | Software Developer | Data Analyst | AI Data Annotation</h3>
